@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Funda Progra\\Funda Pogra\\Personal\\FPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A41813F-682A-4C34-A42A-6AD2943C4B57}|FPS\\FPS.vcxproj|C:\\Users\\Daniel\\Desktop\\Funda Progra\\Funda Pogra\\Personal\\FPS\\FPS\\FPS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A41813F-682A-4C34-A42A-6AD2943C4B57}|FPS\\FPS.vcxproj|solutionrelative:FPS\\FPS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FPS.cpp",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Funda Progra\\Funda Pogra\\Personal\\FPS\\FPS\\FPS.cpp",
+              "RelativeDocumentMoniker": "FPS\\FPS.cpp",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Funda Progra\\Funda Pogra\\Personal\\FPS\\FPS\\FPS.cpp",
+              "RelativeToolTip": "FPS\\FPS.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-28T20:37:31.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -31,7 +31,7 @@ void juego(){
 	
 	cin >> numeroAdivinar;
 	
-	if(! (validar(numeroAdivinar)) ){
+	if(!(validar(numeroAdivinar)) ){
 		cout << "Por favor ingrese un numero valido la proxima vez... Por favor reiniciar el juego.";
 		return;
 	}
